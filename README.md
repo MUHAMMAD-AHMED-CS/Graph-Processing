@@ -26,4 +26,4 @@ This is a GUI based project which was given for the course of Data Structures an
 
   🔹 Display the node with the minimum and maximum edges.
 
-![Project Screenshot](https://user-images.githubusercontent.com/76205185/200173047-8dfd1bef-a248-4345-9280-a6725aae39c1.png)
+![Project Screenshot](https://github.com/MUHAMMAD-AHMED-CS/Graph-Processing/blob/master/Project%20Screenshot.PNG?raw=true)
